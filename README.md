@@ -38,8 +38,10 @@ A sleek and modern **Glassmorphism-styled login page** created using HTML and CS
 ## 📷 Preview
 
 > Replace the image below with a screenshot or GIF from your local app.
+> <img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/4cc4610e-fe52-4bbc-a511-f413c4e8e4df" />
 
-![Glassmorphism Login Preview](./image.png)
+
+![Uploading image.png…]()
 
 ## 🚀 Tech Used
 
